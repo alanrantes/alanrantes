@@ -1,14 +1,6 @@
 <h2 align="center">Olá👋 Eu sou Alan Lacerda</h2>
 
-<div>
-<a href="https://github.com/alanrantes">
-<img width= "42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanrantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img width= "50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrantes&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjorgee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjorgee&layout=compact&hide_title=true&theme=radical)
-
+![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrantes&show_icons=true&theme=radical)
   
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
