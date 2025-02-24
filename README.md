@@ -1,7 +1,11 @@
 <h2 align="center">Olá👋 Eu sou Alan Lacerda</h2>
 
 **`Desenvolvedor de Software`**  
+
+<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por aprender e aplicar novas tecnologias para criar soluções inovadoras. Tenho interesse em desenvolver projetos práticos, sempre focando em otimizar processos e resolver problemas reais. Busco constantemente aprimorar minhas habilidades, explorar novas ferramentas e contribuir com a comunidade de desenvolvedores, seja em projetos acadêmicos ou pessoais.</p>
 </br>
+
+## 🚀 Tecnologias
 <img 
     align="left" 
     alt="HTML"
