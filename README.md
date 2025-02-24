@@ -1,6 +1,6 @@
 <h2 align="center">Olá👋 Eu sou Alan Lacerda</h2>
 
-**`Desenvolvedor Back-end`**  
+**`Desenvolvedor de Software`**  
 </br>
 <img 
     align="left" 
