@@ -10,16 +10,6 @@
 
 ---
 
-## ⚙️ O que eu gosto de desenvolver
-
-- APIs REST bem estruturadas  
-- Sistemas focados em regras de negócio  
-- Integração entre aplicações  
-- Automação e otimização de processos  
-- Aplicações onde IA acelera o desenvolvimento sem comprometer a qualidade  
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 **Back-end**
@@ -36,12 +26,6 @@
 - HTML, CSS e JavaScript  
 - Criação de interfaces funcionais com suporte de IA  
 
-**Ferramentas & Produtividade**
-- Git e GitHub  
-- Versionamento de código  
-- Organização e documentação de projetos  
-- Uso de IA para acelerar desenvolvimento, prototipação e ajustes  
-
 ---
 
 ## 📂 Projetos
@@ -52,22 +36,6 @@ Neste perfil você encontrará:
 - Aplicações onde a IA é utilizada como apoio para ganho de produtividade  
 
 Cada repositório reflete meu processo de aprendizado contínuo e minha evolução como desenvolvedor.
-
----
-
-## 🎯 Objetivos
-
-Busco oportunidades para crescer como desenvolvedor **back-end**, aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de sistemas e boas práticas. Quero atuar em projetos desafiadores, aprender com profissionais experientes e entregar soluções eficientes e bem estruturadas.
-
----
-
-## 📫 Contato
-
-Aberto a conexões, trocas de conhecimento e oportunidades.
-
-- LinkedIn  
-- Email  
-- GitHub  
 
 ---
 
