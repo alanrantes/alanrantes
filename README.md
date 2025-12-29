@@ -1,105 +1,80 @@
-<h2 align="center">Olá👋 Eu sou Alan Lacerda</h2>
+# Olá 👋 Eu sou Alan Lacerda
 
-**`Desenvolvedor de Software`**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas**, com foco em **desenvolvimento back-end** e construção de sistemas bem estruturados.
 
-<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por aprender e aplicar novas tecnologias para criar soluções inovadoras. Tenho interesse em desenvolver projetos práticos, sempre focando em otimizar processos e resolver problemas reais. Busco constantemente aprimorar minhas habilidades, explorar novas ferramentas e contribuir com a comunidade de desenvolvedores, seja em projetos acadêmicos ou pessoais.</p>
-</br>
+Tenho interesse em entender como os sistemas funcionam por trás da interface, trabalhando com lógica, organização e integração entre serviços. Busco desenvolver soluções que resolvem problemas reais, otimizam processos e tornam fluxos mais eficientes.
 
-## 🚀 Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql"
-    title="MySql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="UML"
-    title="UML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GIT"
-    title="GIT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-
-##
-
-<div align="start">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/alanarantes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="alan.arantes.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/qr/7NJEPBDUKEYYG1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="gmail logo"  />
-  </a>
-</div>
+Utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, principalmente no **front-end**, acelerando a criação de interfaces, validações e ajustes visuais, o que me permite concentrar mais tempo e energia na lógica, regras de negócio e arquitetura back-end.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanrantes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" width= "42%" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanrantes&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" width= "42%" height="150" alt="languages graph"  />
-</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alanrantes/alanrantes/output/github-contribution-grid-snake.svg">
-</picture>
+## 🧠 Sobre mim
+
+Tenho um perfil analítico e focado, valorizo código limpo, organizado e com propósito. Gosto de aprender na prática e acredito que bons sistemas nascem de uma base sólida, com regras claras e decisões bem pensadas.
+
+Atualmente, concentro meus estudos em **back-end**, **APIs**, **integração entre sistemas** e **uso consciente de IA como suporte ao desenvolvimento**.
+
+---
+
+## ⚙️ O que eu gosto de desenvolver
+
+- APIs REST bem estruturadas  
+- Sistemas focados em regras de negócio  
+- Integração entre aplicações  
+- Automação e otimização de processos  
+- Aplicações onde IA acelera o desenvolvimento sem comprometer a qualidade  
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Back-end**
+- C# e .NET  
+- APIs REST  
+- Lógica de programação  
+- Estruturação de projetos back-end  
+
+**Banco de Dados**
+- SQL  
+- Modelagem e consultas  
+
+**Front-end (apoio ao back-end)**
+- HTML, CSS e JavaScript  
+- Criação de interfaces funcionais com suporte de IA  
+
+**Ferramentas & Produtividade**
+- Git e GitHub  
+- Versionamento de código  
+- Organização e documentação de projetos  
+- Uso de IA para acelerar desenvolvimento, prototipação e ajustes  
+
+---
+
+## 📂 Projetos
+
+Neste perfil você encontrará:
+- Projetos acadêmicos desenvolvidos durante a graduação  
+- Projetos pessoais com foco em **back-end e lógica de negócio**  
+- Aplicações onde a IA é utilizada como apoio para ganho de produtividade  
+
+Cada repositório reflete meu processo de aprendizado contínuo e minha evolução como desenvolvedor.
+
+---
+
+## 🎯 Objetivos
+
+Busco oportunidades para crescer como desenvolvedor **back-end**, aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de sistemas e boas práticas. Quero atuar em projetos desafiadores, aprender com profissionais experientes e entregar soluções eficientes e bem estruturadas.
+
+---
+
+## 📫 Contato
+
+Aberto a conexões, trocas de conhecimento e oportunidades.
+
+- LinkedIn  
+- Email  
+- GitHub  
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios!
