@@ -14,7 +14,7 @@
 
 **Front-end (apoio ao back-end)**
 - HTML, CSS e JavaScript  
-- Criação de interfaces funcionais com suporte de IA  
+- Criação de interfaces funcionais com suporte de IA
 
 ---
 
