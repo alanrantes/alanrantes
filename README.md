@@ -18,24 +18,9 @@
 - Lógica de programação  
 - Estruturação de projetos back-end  
 
-**Banco de Dados**
-- SQL  
-- Modelagem e consultas  
-
 **Front-end (apoio ao back-end)**
 - HTML, CSS e JavaScript  
 - Criação de interfaces funcionais com suporte de IA  
-
----
-
-## 📂 Projetos
-
-Neste perfil você encontrará:
-- Projetos acadêmicos desenvolvidos durante a graduação  
-- Projetos pessoais com foco em **back-end e lógica de negócio**  
-- Aplicações onde a IA é utilizada como apoio para ganho de produtividade  
-
-Cada repositório reflete meu processo de aprendizado contínuo e minha evolução como desenvolvedor.
 
 ---
 
