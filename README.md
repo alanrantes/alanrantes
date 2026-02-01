@@ -17,6 +17,7 @@
 - Criação de interfaces funcionais com suporte de IA
 
 ---
+![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrantes&show_icons=true&theme=dracula)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/github-contribution-grid-snake-dark.svg">
