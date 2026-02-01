@@ -1,5 +1,7 @@
 # Olá 👋 Eu sou Alan Lacerda
 
+**`Desenvolvedor Backend`**
+
 <p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento back-end e interesse em construir sistemas bem estruturados, organizados e com propósito. Tenho perfil analítico e gosto de entender como as coisas funcionam por trás da interface, explorando lógica, regras de negócio e integração entre serviços. Meu aprendizado acontece principalmente na prática, por meio de projetos acadêmicos e pessoais, sempre buscando resolver problemas reais, otimizar processos e manter clareza no código e qualidade na implementação. Utilizo Inteligência Artificial como ferramenta de apoio para ganhar produtividade, direcionando mais foco à lógica, arquitetura e boas práticas no desenvolvimento de sistemas.</p>
 
 ---
@@ -17,7 +19,6 @@
 - Criação de interfaces funcionais com suporte de IA
 
 ---
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrantes&show_icons=true&theme=dracula)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/github-contribution-grid-snake-dark.svg">
