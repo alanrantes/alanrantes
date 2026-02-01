@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou Alan Lacerda
+# Alan Lacerda
 
 **`Desenvolvedor Backend`**
 
