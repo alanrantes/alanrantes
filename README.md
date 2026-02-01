@@ -18,6 +18,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/alanrantes/alanrantes/output/snake.svg" alt="Snake animation" />
-
 ⭐ Fique à vontade para explorar meus repositórios!
