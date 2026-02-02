@@ -18,6 +18,10 @@
 - HTML, CSS e JavaScript  
 - Criação de interfaces funcionais com suporte de IA
 
+## Contato
+- [LinkedIn](www.linkedin.com/in/alanarantes)
+- [E-mail](mailto:alan.arantes.dev@email.com) 
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
