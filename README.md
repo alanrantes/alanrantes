@@ -30,7 +30,6 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
