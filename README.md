@@ -9,14 +9,16 @@
 ## 🛠️ Tecnologias e ferramentas
 
 **Back-end**
-- C# e .NET  
-- APIs REST  
-- Lógica de programação  
-- Estruturação de projetos back-end  
+- C# e .NET (ASP.NET Core)
+- Desenvolvimento de APIs REST
+- SQL (consultas, joins, operações CRUD)
+- Lógica de programação e POO
+- Estruturação de projetos back-end (camadas, separação de responsabilidades)
 
 **Front-end (apoio ao back-end)**
-- HTML, CSS e JavaScript  
-- Criação de interfaces funcionais com suporte de IA
+- HTML, CSS e JavaScript
+- Criação de interfaces simples e funcionais
+- Uso de ferramentas com suporte de IA para produtividade
 
 ## Contato
 - [LinkedIn](www.linkedin.com/in/alanarantes)
