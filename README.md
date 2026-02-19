@@ -34,8 +34,8 @@
 <!-- Statistics -->
 <div align="center">
   <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=midnight_purple"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=midnight_purple"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=dracula"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
 </div>
 
 <p align="center">
@@ -46,6 +46,7 @@
 </p>
 
 ---
+## 🎮 Contribution Graph
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph-dark.svg">
