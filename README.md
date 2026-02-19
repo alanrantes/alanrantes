@@ -33,9 +33,9 @@
 
 <!-- Statistics -->
 <div align="center">
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=dracula"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=dracula"/>
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
 </div>
 
 <p align="center">
