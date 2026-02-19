@@ -33,14 +33,14 @@
 
 <!-- Statistics -->
 <div align="center">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=dracula"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=radical&title_color=DA70D6&icon_color=EE82EE"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=radical"/>
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
 </div>
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=midnight_purple" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=radical" 
     width="830"
   />
 </p>
