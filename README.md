@@ -11,8 +11,6 @@
 - [LinkedIn](www.linkedin.com/in/alanarantes)
 - [E-mail](mailto:alan.arantes.dev@email.com)
 
----
-
 <div align="center">
   
 ![UML](https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white)
@@ -31,14 +29,21 @@
 
 </div>
 
+---
+
 <!-- Statistics -->
 <div align="center">
   <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?userna
-    me=juvalent&hide=Html&theme=midnight_purple"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juvalent&theme=midnight_purple"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=midnight_purple"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=midnight_purple"/>
 </div>
 
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=midnight_purple" 
+    width="880"
+  />
+</p>
 
 ---
 <!-- Pacman -->
