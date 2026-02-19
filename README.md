@@ -41,7 +41,7 @@
 <p align="center">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=midnight_purple" 
-    width="800"
+    width="840"
   />
 </p>
 
