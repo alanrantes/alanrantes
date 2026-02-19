@@ -13,14 +13,19 @@
 **Back-end**
 - C# e .NET (ASP.NET Core)
 - Desenvolvimento de APIs REST
+
+**Dados**
 - SQL (consultas, joins, operações CRUD)
-- Lógica de programação e POO
-- Estruturação de projetos back-end (camadas, separação de responsabilidades)
+- Noções de modelagem e análise de fluxos sistêmicos
+
+**Cloud & Infraestrutura**
+
+- Microsoft Azure (em formação – foco na certificação AZ-900)
+- Conceitos de cloud computing (IaaS, PaaS, SaaS, regiões, SLA)
 
 **Front-end (apoio ao back-end)**
 - HTML, CSS e JavaScript
 - Criação de interfaces simples e funcionais
-- Uso de ferramentas com suporte de IA para produtividade
 
 ## Contato
 - [LinkedIn](www.linkedin.com/in/alanarantes)
