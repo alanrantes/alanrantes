@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Backend`**
 
-<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento back-end e interesse em construir sistemas bem estruturados, organizados e com propósito. Tenho perfil analítico e gosto de entender como as coisas funcionam por trás da interface, explorando lógica, regras de negócio e integração entre serviços. Meu aprendizado acontece principalmente na prática, por meio de projetos acadêmicos e pessoais, sempre buscando resolver problemas reais, otimizar processos e manter clareza no código e qualidade na implementação. Utilizo Inteligência Artificial como ferramenta de apoio para ganhar produtividade, direcionando mais foco à lógica, arquitetura e boas práticas no desenvolvimento de sistemas.</p>
+<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com experiência prática em ambiente corporativo nas áreas de análise e organização de dados. Atuo no apoio à extração, validação e interpretação de informações utilizando SQL (Oracle) e Power BI, contribuindo para o acompanhamento de indicadores, consistência de dados e análise de fluxos sistêmicos. Essa vivência fortaleceu minha visão analítica e minha compreensão das regras de negócio que sustentam os sistemas.</p>
+
+<p align="justify">Paralelamente, direciono minha formação para o desenvolvimento back-end com C# e .NET, buscando integrar minha base em dados e modelagem à construção de aplicações estruturadas e orientadas a boas práticas. Atualmente, também amplio meus conhecimentos em cloud computing com Azure, expandindo minha visão sobre arquitetura, escalabilidade e ambientes em nuvem.</p>
 
 ---
 
