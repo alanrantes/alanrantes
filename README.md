@@ -2,37 +2,19 @@
 
 **`Desenvolvedor Backend`**
 
-<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com experiência prática em ambiente corporativo nas áreas de análise e organização de dados. Atuo no apoio à extração, validação e interpretação de informações utilizando SQL (Oracle) e Power BI, contribuindo para o acompanhamento de indicadores, consistência de dados e análise de fluxos sistêmicos. Essa vivência fortaleceu minha visão analítica e minha compreensão das regras de negócio que sustentam os sistemas.</p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – PUC Minas  
+📊 Experiência com análise e validação de dados corporativos (SQL Oracle, SAP, Power BI)  
+💻 Foco em desenvolvimento Backend com C# e .NET  
+☁️ Estudando arquitetura e soluções em nuvem com Azure  
+🔎 Interessado em sistemas escaláveis, modelagem de dados e boas práticas
 
-<p align="justify">Paralelamente, direciono minha formação para o desenvolvimento back-end com C# e .NET, buscando integrar minha base em dados e modelagem à construção de aplicações estruturadas e orientadas a boas práticas. Atualmente, também amplio meus conhecimentos em cloud computing com Azure, expandindo minha visão sobre arquitetura, escalabilidade e ambientes em nuvem.</p>
+- [LinkedIn](www.linkedin.com/in/alanarantes)
+- [E-mail](mailto:alan.arantes.dev@email.com)
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-**Back-end**
-- C# e .NET (ASP.NET Core)
-- Desenvolvimento de APIs REST
-
-**Dados**
-- SQL (consultas, joins, operações CRUD)
-- Noções de modelagem e análise de fluxos sistêmicos
-
-**Cloud & Infraestrutura**
-
-- Microsoft Azure (em formação – foco na certificação AZ-900)
-- Conceitos de cloud computing (IaaS, PaaS, SaaS, regiões, SLA)
-
-**Front-end (apoio ao back-end)**
-- HTML, CSS e JavaScript
-- Criação de interfaces simples e funcionais
-
-## Contato
-- [LinkedIn](www.linkedin.com/in/alanarantes)
-- [E-mail](mailto:alan.arantes.dev@email.com) 
-
 <div align="center">
-
+  
 ![UML](https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -47,18 +29,21 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
 </div>
 
+<!-- Statistics -->
+<div align="center">
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?userna
+    me=juvalent&hide=Html&theme=midnight_purple"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juvalent&theme=midnight_purple"/>
+</div>
+
+
+---
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-
-
-⭐ Fique à vontade para explorar meus repositórios!
