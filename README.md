@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
+<!-- About -->
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – PUC Minas  
 📊 Experiência com análise e validação de dados corporativos (SQL Oracle, SAP, Power BI)  
 💻 Foco em desenvolvimento Backend com C# e .NET  
@@ -11,6 +12,7 @@
 - [LinkedIn](www.linkedin.com/in/alanarantes)
 - [E-mail](mailto:alan.arantes.dev@email.com)
 
+<!-- Badges -->
 <div align="center">
   
 ![UML](https://img.shields.io/badge/UML-FF6C37?style=flat&logo=uml&logoColor=white)
@@ -47,6 +49,7 @@
 
 ---
 
+<!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanrantes/alanrantes/output/pacman-contribution-graph.svg">
