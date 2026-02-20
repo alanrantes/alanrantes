@@ -33,14 +33,14 @@
 
 <!-- Statistics -->
 <div align="center">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=radical&title_color=DA70D6&icon_color=EE82EE"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=radical"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrantes&mode-daily&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrantes&hide=Html&theme=tokyonight"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=tokyonight"/>
 </div>
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=radical" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=tokyonight" 
     width="830"
   />
 </p>
