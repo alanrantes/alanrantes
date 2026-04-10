@@ -9,7 +9,7 @@
 ☁️ Estudando arquitetura e soluções em nuvem com Azure  
 🔎 Interessado em sistemas escaláveis, modelagem de dados e boas práticas
 
-- [LinkedIn](www.linkedin.com/in/alanarantes)
+- [LinkedIn](https://www.linkedin.com/in/alanarantes/)
 - [E-mail](mailto:alan.arantes.dev@email.com)
 
 <!-- Badges -->
