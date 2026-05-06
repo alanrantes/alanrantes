@@ -40,12 +40,7 @@
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrantes&theme=radical"/>
 </div>
 
-<p align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrantes&theme=radical" 
-    width="830"
-  />
-</p>
+
 
 ---
 
