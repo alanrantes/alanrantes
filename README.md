@@ -1,12 +1,13 @@
 # Alan Arantes
 
-**`Desenvolvimento de Software | C# | .NET | SQL`**
+**`Desenvolvedor de Software | Back-end | C# | .NET | Java | SQL`**
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – PUC Minas  
-💻 Desenvolvimento de aplicações com C#, .NET, ASP.NET Core, Angular e React  
-🗄️ Experiência com SQL, bancos de dados e integração de sistemas  
-📊 Vivência com análise de dados corporativos, Oracle, SAP e Power BI  
-🚀 Foco em APIs REST, desenvolvimento web e boas práticas de software
+💻 Foco em desenvolvimento back-end com C# e .NET  
+☕ Atualmente expandindo meus conhecimentos em Java  
+🔗 Desenvolvimento de APIs REST e integração de sistemas  
+🗄️ Experiência com SQL Server, Oracle e MongoDB  
+🏗️ Interesse em arquitetura, boas práticas e Engenharia de Software
 
 - [LinkedIn](https://www.linkedin.com/in/alanrantes/)
 - [E-mail](mailto:SEU_EMAIL)
@@ -17,7 +18,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
