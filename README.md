@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento back-end. Venho construindo projetos com C# e .NET enquanto amplio meus conhecimentos em Java e Engenharia de Software, buscando evoluir em arquitetura, boas práticas e desenvolvimento de sistemas. Esse processo faz parte do meu objetivo de construir uma base sólida e evoluir profissionalmente para atuar como Software Engineer.</p>
+<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento back-end. Venho construindo projetos com C# e .NET enquanto amplio meus conhecimentos em Java e Engenharia de Software, buscando evoluir em arquitetura, boas práticas e desenvolvimento de sistemas. Esse processo faz parte do meu objetivo de construir uma base sólida e evoluir profissionalmente para atuar como Software Engineer, desenvolvendo soluções bem estruturadas, eficientes e preparadas para evoluir.</p>
 
 ---
 
