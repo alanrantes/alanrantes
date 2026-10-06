@@ -25,6 +25,8 @@
 - [LinkedIn](https://www.linkedin.com/in/alanrantes/)
 - [E-mail](mailto:alanlacerdaarantes@gmail.com)
 
+---
+
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
