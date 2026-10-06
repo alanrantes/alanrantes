@@ -4,15 +4,26 @@
   Software Development • Back-end • C# & .NET
 </p>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – PUC Minas  
-💻 Foco em desenvolvimento back-end com C# e .NET  
-🚀 Construindo projetos para evoluir minhas habilidades em desenvolvimento de software  
-☕ Expandindo meus conhecimentos em Java e no ecossistema Spring  
-🏗️ Estudando boas práticas, arquitetura e fundamentos de Engenharia de Software  
-🎯 Objetivo profissional: evoluir minha carreira como Software Engineer
+
+<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento back-end. Venho construindo projetos com C# e .NET enquanto amplio meus conhecimentos em Java e Engenharia de Software, buscando evoluir em arquitetura, boas práticas e desenvolvimento de sistemas. Esse processo faz parte do meu objetivo de construir uma base sólida e evoluir profissionalmente para atuar como Software Engineer.</p>
+
+---
+
+🏗️ Arquitetura de software, microsserviços e separação de responsabilidades  
+🔗 APIs REST, comunicação e integração entre serviços  
+🧩 SOLID, Clean Code e padrões de projeto  
+🗄️ Persistência de dados com bancos relacionais e NoSQL  
+⚙️ Interesse em sistemas distribuídos, escalabilidade e resiliência
+
+---
+
+
+### Contato
+
+<p align="justify">Sinta-se à vontade para explorar meus repositórios e conhecer os projetos que venho construindo ao longo da minha evolução como desenvolvedor. Estou sempre aberto a conexões, troca de experiências e novas oportunidades.</p>
 
 - [LinkedIn](https://www.linkedin.com/in/alanrantes/)
-- [E-mail](mailto:SEU_EMAIL)
+- [E-mail](mailto:alanlacerdaarantes@gmail.com)
 
 <div align="center">
 
@@ -30,8 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
-
----
 
 <!-- Pacman -->
 <picture>
