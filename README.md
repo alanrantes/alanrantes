@@ -1,13 +1,15 @@
-# Alan Arantes
+<h1 align="center">— Alan Lacerda —</h1>
 
-**`Desenvolvedor de Software | Back-end | C# | .NET | Java | SQL`**
+<p align="center">
+  Software Development • Back-end • C# & .NET
+</p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – PUC Minas  
 💻 Foco em desenvolvimento back-end com C# e .NET  
-☕ Atualmente expandindo meus conhecimentos em Java  
-🔗 Desenvolvimento de APIs REST e integração de sistemas  
-🗄️ Experiência com SQL Server, Oracle e MongoDB  
-🏗️ Interesse em arquitetura, boas práticas e Engenharia de Software
+🚀 Construindo projetos para evoluir minhas habilidades em desenvolvimento de software  
+☕ Expandindo meus conhecimentos em Java e no ecossistema Spring  
+🏗️ Estudando boas práticas, arquitetura e fundamentos de Engenharia de Software  
+🎯 Objetivo profissional: evoluir minha carreira como Software Engineer
 
 - [LinkedIn](https://www.linkedin.com/in/alanrantes/)
 - [E-mail](mailto:SEU_EMAIL)
@@ -24,7 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
